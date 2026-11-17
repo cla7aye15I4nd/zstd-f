@@ -1,0 +1,11 @@
+.lake/
+build/
+/docs/web/dist/
+__pycache__/
+*.pyc
+.claude/
+.vscode/
+.gemini/
+tests/.lake/
+tests/build/
+lake-manifest.json
